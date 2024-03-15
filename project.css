@@ -1,0 +1,178 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.topnav{
+    width: 90%;
+    margin: 10px auto;
+    background-color:  rgb(241, 240, 238);
+    display: flex;
+    justify-content: space-between;
+    padding: 7px 50px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.search_bar  li{
+    list-style: none;
+    display: flex;
+}
+.login ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.product_listing{
+    display: flex;
+}
+.product_listing{
+    width: 96%;
+    background-color: rgb(241, 240, 238);
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.grocery img{
+    max-width: 100px;
+}
+.phones img{
+    max-width: 100px;
+}
+.fashion img{
+    max-width: 100px;
+}
+.homes img{
+    max-width: 100px;
+}
+.travel img{
+    max-width: 100px;
+}
+.beauty img{
+    max-width: 100px;
+}
+.twowheelers img{
+    max-width: 100px;
+}
+/*discount section start*/
+.discount{
+    width: 96%;
+    background-color: rgb(241, 240, 238);
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.discount .kitchen img{
+    max-width: 400px;
+
+}
+.discount .cloting img{
+    max-width: 100px;
+}
+.discount .hair img{
+    max-width: 400px;
+}
+
+/*discount section end*/
+/*top deal section start*/
+.top_deal{
+    width: 96%;
+    background-color: rgb(241, 240, 238);
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/*top deal section end*/
+/*2nd ad section start*/
+.ads{
+    display: flex;
+    flex: wrap;
+}
+/*2nd ad section end*/
+/*footer section start*/
+  
+.footer {
+    background-color: rgb(40, 39, 39);
+    padding-bottom: 200px;
+    display: flex;
+}
+.footer .about p{
+    color: grey;
+}
+ 
+.footer .about ul{
+    color: white;
+    list-style: none;
+}
+.group_companies{
+    padding-left: 50px;
+}
+.group_companies p{
+    color: gray;
+}
+.group_companies ul{
+    color: white;
+    list-style: none;
+}
+.help{
+    padding-left: 50px;
+}
+.help p{
+    color: gray;
+}
+.help ul{
+    color: white;
+    list-style: none;
+}
+.consumer_policy{
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.consumer_policy p{
+    color: gray;
+}
+.consumer_policy ul{
+    color: white;
+    list-style: none;
+}
+.vertical_line {
+    border-left: 2px solid gray; /* Change color and width as needed */
+    height: 200px; /* Adjust height as needed */
+    
+}
+.mailus{
+    padding-left: 50px;
+}
+.mailus p{
+    color: gray;
+}
+.mailus ul{
+    color: 
+    white;
+    list-style: none;
+}
+.registered{
+    padding-left: 50px;
+}
+.registered p{
+    color: gray;
+}
+.registered ul{
+color: white;
+list-style: none;
+}
+
+/*footer section end*/
+
